@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 60px;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.2em;
+}
+
+.App-intro {
+  font-size: medium;
+}
+
+input[type='file'] {
+  color: rgb(0, 0, 0.87);
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+input[type='submit'] {
+  color: rgb(0, 0, 0.87);
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  color: rgb(0, 0, 0.87);
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+}
